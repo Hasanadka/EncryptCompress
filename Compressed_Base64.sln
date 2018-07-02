@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64", "Base64\Base64.csproj", "{07E36846-5A84-436C-854E-C00F6A6C847B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E36846-5A84-436C-854E-C00F6A6C847B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E36846-5A84-436C-854E-C00F6A6C847B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E36846-5A84-436C-854E-C00F6A6C847B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E36846-5A84-436C-854E-C00F6A6C847B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
